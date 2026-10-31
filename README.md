@@ -1,4 +1,4 @@
-# ProductosAPI CRUD de productos (C# + SQL Server Managment studio (Es el que tenia instalado profe)+ Swagger)
+# ProductosAPI CRUD de productos (C# + SQL Server Management studio (Es el que tenia instalado profe)+ Swagger)
 
 ## Flujo
 1. En SSMS se ejecuta `script.sql`: se crea la base `ProductosDB` y la tabla `Productos`.
